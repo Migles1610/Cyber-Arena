@@ -2,15 +2,18 @@
 
 --Herói--
 Vida:245
-Ataque:45
+Ataque:75
+Defesa:50
 Habilidade: Espada divina (135 dano da divindade) 
 
 --Esqueleto--
 Vida:20
 Ataque:90
+Defesa:30
 Habilidade: Lançamento de osso (40 dano de sangramento)
 
 --Demônio das Sombras--
 Vida:750
 Ataque:100
+Defesa:40
 Habilidade: Sombras Assustadoras (20 de dano a cada 10 seg por 30 seg)
