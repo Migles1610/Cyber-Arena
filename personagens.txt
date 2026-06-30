@@ -1,0 +1,11 @@
+#Personagens
+
+--Herói--
+Vida:120
+Ataque:45
+Habilidade: Espada divína
+
+--Esqueleto--
+Vida:20
+Ataque:90
+Habilidade: Lançamento de osso (40 dano de sangramento)
