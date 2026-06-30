@@ -1,5 +1,6 @@
 --Fases--
 1- Masmorra
 Objetivo: Achar as 4 relíquias do templo
+
 2- Vale das Sombras
 Objetivo: Derrotar o coração do Vale
